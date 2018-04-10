@@ -1,4 +1,5 @@
-#PrivacySafer Privacy Extension
+# deprecated (kept for backward compatibility)
+# PrivacySafer Privacy add-on for Firefox 
 
 Firefox add-on which prevents web applications from having access to your sensitive data within the web browser (like geolocation and more).
 

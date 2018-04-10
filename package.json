@@ -1,8 +1,8 @@
 {
-  "title": "Browser's Data Configuration Access",
+  "title": "PrivacySafer",
   "name": "browsersdataconfigurationaccess",
-  "version": "2.0.0",
-  "description": "Privacy Protector For Browser Navigator And Sensitive Data",
+  "version": "3.0",
+  "description": "PrivacySafer for enabling/disabling access to sensitive data",
   "main": "lib/extra.js",
   "author": "Theodoros Charalambous",
   "engines": {
